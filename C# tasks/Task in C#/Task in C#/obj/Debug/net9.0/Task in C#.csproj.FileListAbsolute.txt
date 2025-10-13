@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\bin\Debug\net9.0\Task in C#.exe
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\bin\Debug\net9.0\Task in C#.deps.json
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\bin\Debug\net9.0\Task in C#.runtimeconfig.json
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\bin\Debug\net9.0\Task in C#.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\bin\Debug\net9.0\Task in C#.pdb
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.AssemblyInfo.cs
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\refint\Task in C#.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.pdb
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\Task in C#.genruntimeconfig.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\Task in C#\Task in C#\obj\Debug\net9.0\ref\Task in C#.dll
