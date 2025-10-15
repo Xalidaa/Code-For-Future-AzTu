@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\programming\\code_for_future\\C#\\Task in C#\\Task in C#\\Task in C#.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Code For Future\\C# tasks\\Task in C#\\Task in C#\\Task in C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\programming\\code_for_future\\C#\\Task in C#\\Task in C#\\Task in C#.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Code For Future\\C# tasks\\Task in C#\\Task in C#\\Task in C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\programming\\code_for_future\\C#\\Task in C#\\Task in C#\\Task in C#.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Code For Future\\C# tasks\\Task in C#\\Task in C#\\Task in C#.csproj",
         "projectName": "Task in C#",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\programming\\code_for_future\\C#\\Task in C#\\Task in C#\\Task in C#.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Code For Future\\C# tasks\\Task in C#\\Task in C#\\Task in C#.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\programming\\code_for_future\\C#\\Task in C#\\Task in C#\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Code For Future\\C# tasks\\Task in C#\\Task in C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
