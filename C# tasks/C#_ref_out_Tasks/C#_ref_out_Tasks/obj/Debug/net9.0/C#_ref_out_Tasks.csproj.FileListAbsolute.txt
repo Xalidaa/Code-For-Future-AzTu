@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.AssemblyInfo.cs
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\bin\Debug\net9.0\C#_ref_out_Tasks.exe
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\bin\Debug\net9.0\C#_ref_out_Tasks.deps.json
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\bin\Debug\net9.0\C#_ref_out_Tasks.runtimeconfig.json
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\bin\Debug\net9.0\C#_ref_out_Tasks.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\bin\Debug\net9.0\C#_ref_out_Tasks.pdb
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\refint\C#_ref_out_Tasks.dll
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.pdb
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\C#_ref_out_Tasks.genruntimeconfig.cache
+C:\Users\DELL\Desktop\programming\code_for_future\C#\C#_ref_out_Tasks\C#_ref_out_Tasks\obj\Debug\net9.0\ref\C#_ref_out_Tasks.dll
