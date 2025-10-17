@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\bin\Debug\net8.0\C#_Strings_Tasks.exe
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\bin\Debug\net8.0\C#_Strings_Tasks.deps.json
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\bin\Debug\net8.0\C#_Strings_Tasks.runtimeconfig.json
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\bin\Debug\net8.0\C#_Strings_Tasks.dll
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\bin\Debug\net8.0\C#_Strings_Tasks.pdb
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.dll
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\refint\C#_Strings_Tasks.dll
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.pdb
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\C#_Strings_Tasks.genruntimeconfig.cache
+C:\Users\ca r221.14\Desktop\CFF\C#_Strings_Tasks\C#_Strings_Tasks\obj\Debug\net8.0\ref\C#_Strings_Tasks.dll
