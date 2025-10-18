@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B48EFB5-AEB9-4F26-BBEA-80C39D249AAC}|C_Sharp Intro\\C_Sharp Intro.csproj|c:\\users\\dell\\desktop\\c_sharp intro\\c_sharp intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B48EFB5-AEB9-4F26-BBEA-80C39D249AAC}|C_Sharp Intro\\C_Sharp Intro.csproj|solutionrelative:c_sharp intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp Intro\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\Program.cs",
+              "RelativeToolTip": "C_Sharp Intro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T17:32:09.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
