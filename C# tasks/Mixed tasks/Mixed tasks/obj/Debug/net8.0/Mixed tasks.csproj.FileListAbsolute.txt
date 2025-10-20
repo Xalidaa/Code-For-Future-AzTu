@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\bin\Debug\net8.0\Mixed tasks.exe
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\bin\Debug\net8.0\Mixed tasks.deps.json
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\bin\Debug\net8.0\Mixed tasks.runtimeconfig.json
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\bin\Debug\net8.0\Mixed tasks.dll
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\bin\Debug\net8.0\Mixed tasks.pdb
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.dll
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\refint\Mixed tasks.dll
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.pdb
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\Mixed tasks.genruntimeconfig.cache
+C:\Users\ca r221.14\Desktop\Mixed tasks\Mixed tasks\obj\Debug\net8.0\ref\Mixed tasks.dll
