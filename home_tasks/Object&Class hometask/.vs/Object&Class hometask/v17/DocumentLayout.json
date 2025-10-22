@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|c:\\users\\dell\\desktop\\object\u0026class hometask\\object\u0026class hometask\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|solutionrelative:object\u0026class hometask\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|c:\\users\\dell\\desktop\\object\u0026class hometask\\object\u0026class hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|solutionrelative:object\u0026class hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|c:\\users\\dell\\desktop\\object\u0026class hometask\\object\u0026class hometask\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|solutionrelative:object\u0026class hometask\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|c:\\users\\dell\\desktop\\object\u0026class hometask\\object\u0026class hometask\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|solutionrelative:object\u0026class hometask\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|c:\\users\\dell\\desktop\\object\u0026class hometask\\object\u0026class hometask\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDA44B-6F08-4E4D-87B5-552F9F736E56}|Object\u0026Class hometask\\Object\u0026Class hometask.csproj|solutionrelative:object\u0026class hometask\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Device.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class hometask\\Device.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Device.cs",
+              "RelativeToolTip": "Object\u0026Class hometask\\Device.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:27:06.847Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Laptop.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class hometask\\Laptop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Laptop.cs",
+              "RelativeToolTip": "Object\u0026Class hometask\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:47:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Phone.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class hometask\\Phone.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Phone.cs",
+              "RelativeToolTip": "Object\u0026Class hometask\\Phone.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:43:31.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Human.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class hometask\\Human.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Human.cs",
+              "RelativeToolTip": "Object\u0026Class hometask\\Human.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:05:07.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Program.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class hometask\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Object\u0026Class hometask\\Object\u0026Class hometask\\Program.cs",
+              "RelativeToolTip": "Object\u0026Class hometask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:04:42.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
