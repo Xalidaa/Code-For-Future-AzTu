@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|c:\\users\\ca r221.14\\desktop\\object\u0026class tasks day 2\\object\u0026class tasks day 2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89886B38-E21F-4589-B422-5F7C414E91AE}|Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2.csproj|solutionrelative:object\u0026class tasks day 2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\MathOperations.cs*",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\MathOperations.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:31:51.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Rectangle.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:21:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Circle.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Circle.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Circle.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:21:20.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Shape.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Shape.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Shape.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:19:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Book.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Book.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Book.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:13:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Dog.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Dog.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Dog.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:07:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Animal.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Animal.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Animal.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:07:19.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Car.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Car.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Car.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:55:03.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\UserAccount.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:30:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Student.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Student.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Student.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:54:28.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Person.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Person.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Person.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:40:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Program.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Program.cs*",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:30:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Product.cs",
+              "RelativeDocumentMoniker": "Object\u0026Class Tasks Day 2\\Product.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Object\u0026Class Tasks Day 2\\Object\u0026Class Tasks Day 2\\Product.cs",
+              "RelativeToolTip": "Object\u0026Class Tasks Day 2\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:42:28.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

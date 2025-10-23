@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\bin\Debug\net8.0\Object&Class Tasks Day 2.exe
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\bin\Debug\net8.0\Object&Class Tasks Day 2.deps.json
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\bin\Debug\net8.0\Object&Class Tasks Day 2.runtimeconfig.json
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\bin\Debug\net8.0\Object&Class Tasks Day 2.dll
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\bin\Debug\net8.0\Object&Class Tasks Day 2.pdb
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.dll
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\refint\Object&Class Tasks Day 2.dll
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.pdb
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\Object&Class Tasks Day 2.genruntimeconfig.cache
+C:\Users\ca r221.14\Desktop\Object&Class Tasks Day 2\Object&Class Tasks Day 2\obj\Debug\net8.0\ref\Object&Class Tasks Day 2.dll
