@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\bin\Debug\net9.0\Project_Gulshan_Teacher.exe
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\bin\Debug\net9.0\Project_Gulshan_Teacher.deps.json
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\bin\Debug\net9.0\Project_Gulshan_Teacher.runtimeconfig.json
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\bin\Debug\net9.0\Project_Gulshan_Teacher.dll
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\bin\Debug\net9.0\Project_Gulshan_Teacher.pdb
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.dll
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\refint\Project_Gulshan_Teacher.dll
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.pdb
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\Project_Gulshan_Teacher.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Project_Gulshan_Teacher\Project_Gulshan_Teacher\obj\Debug\net9.0\ref\Project_Gulshan_Teacher.dll

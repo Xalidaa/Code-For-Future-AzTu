@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\C# class tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|c:\\users\\dell\\desktop\\c# class tasks\\c# class tasks\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A9EC89-2C2B-4808-AB0F-6F71E6CB26B9}|C# class tasks\\C# class tasks.csproj|solutionrelative:c# class tasks\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Employee.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Employee.cs",
+              "RelativeToolTip": "C# class tasks\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:33:38.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\User.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\User.cs",
+              "RelativeToolTip": "C# class tasks\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:25:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Book.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Book.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Book.cs",
+              "RelativeToolTip": "C# class tasks\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:18:07.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\BankAccount.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\BankAccount.cs",
+              "RelativeToolTip": "C# class tasks\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:09:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Rectangle.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Rectangle.cs",
+              "RelativeToolTip": "C# class tasks\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:05:05.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Car.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Car.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Car.cs",
+              "RelativeToolTip": "C# class tasks\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:49:31.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Student.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Student.cs",
+              "RelativeToolTip": "C# class tasks\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:34:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Program.cs",
+              "RelativeDocumentMoniker": "C# class tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# class tasks\\C# class tasks\\Program.cs",
+              "RelativeToolTip": "C# class tasks\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:33:32.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

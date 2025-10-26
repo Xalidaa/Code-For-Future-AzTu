@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\bin\Debug\net9.0\C# class tasks.exe
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\bin\Debug\net9.0\C# class tasks.deps.json
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\bin\Debug\net9.0\C# class tasks.runtimeconfig.json
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\bin\Debug\net9.0\C# class tasks.dll
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\bin\Debug\net9.0\C# class tasks.pdb
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.dll
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\refint\C# class tasks.dll
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.pdb
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\C# class tasks.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C# class tasks\C# class tasks\obj\Debug\net9.0\ref\C# class tasks.dll
