@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\task 10\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task 10\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\task 10\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task 10\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\task 10\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task 10\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\task 10\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task 10\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\dell\\desktop\\abstractiontasks\\abstractiontasks\\abstractiontasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAFB961A-80DB-4B7C-B9E4-535405E59217}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\abstractiontasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Boss.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task 10\\Boss.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Boss.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task 10\\Boss.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:05:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Mage.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task 10\\Mage.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Mage.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task 10\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:04:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Warrior.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task 10\\Warrior.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Warrior.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task 10\\Warrior.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:03:27.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Character.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task 10\\Character.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Task 10\\Character.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task 10\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:01:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractionTasks",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\AbstractionTasks.csproj",
+              "RelativeDocumentMoniker": "AbstractionTasks\\AbstractionTasks.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\AbstractionTasks.csproj",
+              "RelativeToolTip": "AbstractionTasks\\AbstractionTasks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T17:00:42.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\AbstractionTasks\\AbstractionTasks\\Program.cs",
+              "RelativeToolTip": "AbstractionTasks\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:39:25.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

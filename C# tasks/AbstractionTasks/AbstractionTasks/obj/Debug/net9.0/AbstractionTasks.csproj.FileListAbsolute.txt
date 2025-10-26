@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\bin\Debug\net9.0\AbstractionTasks.exe
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\bin\Debug\net9.0\AbstractionTasks.deps.json
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\bin\Debug\net9.0\AbstractionTasks.runtimeconfig.json
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\bin\Debug\net9.0\AbstractionTasks.dll
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\bin\Debug\net9.0\AbstractionTasks.pdb
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.AssemblyInfo.cs
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.dll
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\refint\AbstractionTasks.dll
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.pdb
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\AbstractionTasks.genruntimeconfig.cache
+C:\Users\DELL\Desktop\AbstractionTasks\AbstractionTasks\obj\Debug\net9.0\ref\AbstractionTasks.dll
