@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\bin\Debug\net9.0\JPhone_Task.exe
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\bin\Debug\net9.0\JPhone_Task.deps.json
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\bin\Debug\net9.0\JPhone_Task.runtimeconfig.json
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\bin\Debug\net9.0\JPhone_Task.dll
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\bin\Debug\net9.0\JPhone_Task.pdb
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.dll
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\refint\JPhone_Task.dll
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.pdb
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\JPhone_Task.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JPhone_Task\JPhone_Task\obj\Debug\net9.0\ref\JPhone_Task.dll
