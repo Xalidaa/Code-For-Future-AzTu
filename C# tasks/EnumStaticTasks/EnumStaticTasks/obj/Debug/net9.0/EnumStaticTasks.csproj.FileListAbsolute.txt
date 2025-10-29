@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\bin\Debug\net9.0\EnumStaticTasks.exe
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\bin\Debug\net9.0\EnumStaticTasks.deps.json
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\bin\Debug\net9.0\EnumStaticTasks.runtimeconfig.json
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\bin\Debug\net9.0\EnumStaticTasks.dll
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\bin\Debug\net9.0\EnumStaticTasks.pdb
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.dll
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\refint\EnumStaticTasks.dll
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.pdb
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\EnumStaticTasks.genruntimeconfig.cache
+C:\Users\DELL\Desktop\EnumStaticTasks\EnumStaticTasks\obj\Debug\net9.0\ref\EnumStaticTasks.dll

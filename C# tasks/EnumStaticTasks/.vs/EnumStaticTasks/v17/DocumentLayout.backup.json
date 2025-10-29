@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 10\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 10\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 10\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 10\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 8\\fileaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 8\\fileaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 6\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 6\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\enumstatictasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\enumstatictasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|c:\\users\\dell\\desktop\\enumstatictasks\\enumstatictasks\\task 5\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF75ED0-1DC0-4F6D-AE58-3B1E00A24CDE}|EnumStaticTasks\\EnumStaticTasks.csproj|solutionrelative:enumstatictasks\\task 5\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 10\\Theme.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 10\\Theme.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 10\\Theme.cs*",
+              "RelativeToolTip": "EnumStaticTasks\\Task 10\\Theme.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:34:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 10\\AppConfig.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 10\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 10\\AppConfig.cs*",
+              "RelativeToolTip": "EnumStaticTasks\\Task 10\\AppConfig.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:32:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnumStaticTasks",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\EnumStaticTasks.csproj",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\EnumStaticTasks.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\EnumStaticTasks.csproj*",
+              "RelativeToolTip": "EnumStaticTasks\\EnumStaticTasks.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T11:59:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 8\\FileAccess.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 8\\FileAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 8\\FileAccess.cs",
+              "RelativeToolTip": "EnumStaticTasks\\Task 8\\FileAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:22:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 7\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 7\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 7\\OrderStatus.cs",
+              "RelativeToolTip": "EnumStaticTasks\\Task 7\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:12:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 6\\UserRole.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 6\\UserRole.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 6\\UserRole.cs",
+              "RelativeToolTip": "EnumStaticTasks\\Task 6\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:59:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Days.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 5\\Days.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Task 5\\Days.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Task 5\\Days.cs",
+              "RelativeToolTip": "EnumStaticTasks\\Task 5\\Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:54:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Program.cs",
+              "RelativeDocumentMoniker": "EnumStaticTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EnumStaticTasks\\EnumStaticTasks\\Program.cs*",
+              "RelativeToolTip": "EnumStaticTasks\\Program.cs*",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwJYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:16:30.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
