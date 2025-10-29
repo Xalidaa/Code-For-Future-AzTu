@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|c:\\users\\dell\\desktop\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|c:\\users\\dell\\desktop\\enum\\enum\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|solutionrelative:enum\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|c:\\users\\dell\\desktop\\enum\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|solutionrelative:enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|c:\\users\\dell\\desktop\\enum\\enum\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBBF56-9D00-4550-B1CC-ACC718D4CED5}|Enum\\Enum.csproj|solutionrelative:enum\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\WeekDay.cs",
+              "RelativeDocumentMoniker": "Enum\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\WeekDay.cs",
+              "RelativeToolTip": "Enum\\WeekDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:58:44.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Gender.cs",
+              "RelativeToolTip": "Enum\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:38:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Student.cs",
+              "RelativeDocumentMoniker": "Enum\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Student.cs",
+              "RelativeToolTip": "Enum\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:23:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Enum\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:22:13.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
