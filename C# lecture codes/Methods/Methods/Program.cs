@@ -94,6 +94,7 @@
 
             ShowNumbers(nums);
 
+
             string name = "John";
             void SpellName(string name)
             {
@@ -133,6 +134,14 @@
            
 
             ShowLetters('e', 'a', 'b', 'c', 'd');
+            /*Output:
+             * a
+             * b
+             * c
+             * d
+             * ********
+             * e
+             */
 
             //SIRA: (NORMAL PARAMETR, DEFAULT PARAMETR, PARAMS)
 
@@ -147,6 +156,14 @@
             }
 
             ShowLetters2('e', 'a', 'b', 'c', 'd');
+            /*Output:
+             * a
+             * b
+             * c
+             * d
+             * ********
+             * e cunki default x olsa da e deyeri verilib ona gore x istifade olunmur
+             */
 
             void ShowLetters3(string y, char elem='x', params char[] letters)
             {
@@ -161,9 +178,21 @@
             }
             
 
+
             ShowLetters3("hello",'e', 'a', 'b', 'c', 'd');
 
-           
+            /*Output:
+             * a
+             * b
+             * c
+             * d
+             * ********
+             * e
+             * ********
+             * hello
+             */
+
+
 
             //bir metod yaz soz ve herf qebul etsin o sozun icinde o herf nece denedirse bize sayini ver
 

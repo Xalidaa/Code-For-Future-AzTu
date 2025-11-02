@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\c# object\u0026class.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\c# object\u0026class.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\example\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\example\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|c:\\users\\dell\\desktop\\c# object\u0026class\\c# object\u0026class\\example\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56DD93-8A8E-4CE1-9E50-BA54A58FA07C}|C# Object\u0026Class\\C# Object\u0026Class.csproj|solutionrelative:c# object\u0026class\\example\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Student.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Inheritance\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Student.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Inheritance\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:09:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Person.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Inheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Person.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Inheritance\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:09:45.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Inheritance\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Employee.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Inheritance\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:09:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C# Object\u0026Class",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\C# Object\u0026Class.csproj",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\C# Object\u0026Class.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\C# Object\u0026Class.csproj",
+              "RelativeToolTip": "C# Object\u0026Class\\C# Object\u0026Class.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T10:09:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Example\\Milk.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Example\\Milk.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Example\\Milk.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Example\\Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:43:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Example\\Product.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Example\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Example\\Product.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Example\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:42:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "C# Object\u0026Class\\Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Object\u0026Class\\C# Object\u0026Class\\Inheritance\\Program.cs",
+              "RelativeToolTip": "C# Object\u0026Class\\Inheritance\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:29:08.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

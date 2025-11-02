@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\bin\Debug\net9.0\ExceptionBugError.exe
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\bin\Debug\net9.0\ExceptionBugError.deps.json
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\bin\Debug\net9.0\ExceptionBugError.runtimeconfig.json
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\bin\Debug\net9.0\ExceptionBugError.dll
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\bin\Debug\net9.0\ExceptionBugError.pdb
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.dll
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\refint\ExceptionBugError.dll
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.pdb
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ExceptionBugError.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ExceptionBugError\ExceptionBugError\obj\Debug\net9.0\ref\ExceptionBugError.dll

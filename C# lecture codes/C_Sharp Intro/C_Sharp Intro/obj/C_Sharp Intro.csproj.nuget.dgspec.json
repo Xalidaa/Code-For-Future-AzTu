@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj",
         "projectName": "C_Sharp Intro",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C_Sharp Intro\\C_Sharp Intro\\C_Sharp Intro.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\C_Sharp Intro\\C_Sharp Intro\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C_Sharp Intro\\C_Sharp Intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

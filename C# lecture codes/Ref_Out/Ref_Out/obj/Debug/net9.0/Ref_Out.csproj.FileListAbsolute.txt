@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\bin\Debug\net9.0\Ref_Out.exe
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\bin\Debug\net9.0\Ref_Out.deps.json
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\bin\Debug\net9.0\Ref_Out.runtimeconfig.json
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\bin\Debug\net9.0\Ref_Out.dll
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\bin\Debug\net9.0\Ref_Out.pdb
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.dll
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\refint\Ref_Out.dll
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.pdb
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\Ref_Out.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Ref_Out\Ref_Out\obj\Debug\net9.0\ref\Ref_Out.dll
