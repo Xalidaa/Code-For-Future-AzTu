@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\genericexample\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\genericexample\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|c:\\users\\dell\\desktop\\generic type\\generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF872266-E5BC-4B87-9698-21E4DB770D81}|Generic Type\\Generic Type.csproj|solutionrelative:generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Student.cs",
+              "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Student.cs",
+              "RelativeToolTip": "Generic Type\\GenericExample\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:40:43.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Grass.cs",
+              "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Grass.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Grass.cs",
+              "RelativeToolTip": "Generic Type\\GenericExample\\Grass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:21:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Meat.cs",
+              "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Meat.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Meat.cs",
+              "RelativeToolTip": "Generic Type\\GenericExample\\Meat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:21:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Food.cs",
+              "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Food.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Food.cs",
+              "RelativeToolTip": "Generic Type\\GenericExample\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:21:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Lion.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Lion.cs",
               "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Lion.cs",
@@ -53,14 +121,14 @@
               "RelativeDocumentMoniker": "Generic Type\\GenericExample\\ZooCage.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\ZooCage.cs",
               "RelativeToolTip": "Generic Type\\GenericExample\\ZooCage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T07:07:05.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Elephant.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Elephant.cs",
               "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Elephant.cs",
@@ -73,12 +141,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Animal.cs",
               "RelativeDocumentMoniker": "Generic Type\\GenericExample\\Animal.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Animal.cs*",
-              "RelativeToolTip": "Generic Type\\GenericExample\\Animal.cs*",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\GenericExample\\Animal.cs",
+              "RelativeToolTip": "Generic Type\\GenericExample\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T06:57:47.708Z",
@@ -86,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\Program.cs",
               "RelativeDocumentMoniker": "Generic Type\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Generic Type\\Generic Type\\Program.cs",
               "RelativeToolTip": "Generic Type\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T06:32:58.624Z",
               "EditorCaption": ""
