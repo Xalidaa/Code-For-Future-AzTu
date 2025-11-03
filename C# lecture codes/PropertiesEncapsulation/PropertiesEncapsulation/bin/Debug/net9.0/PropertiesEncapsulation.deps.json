@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PropertiesEncapsulation/1.0.0": {
+        "runtime": {
+          "PropertiesEncapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertiesEncapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

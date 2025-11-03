@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\bin\Debug\net9.0\PropertiesEncapsulation.exe
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\bin\Debug\net9.0\PropertiesEncapsulation.deps.json
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\bin\Debug\net9.0\PropertiesEncapsulation.runtimeconfig.json
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\bin\Debug\net9.0\PropertiesEncapsulation.dll
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\bin\Debug\net9.0\PropertiesEncapsulation.pdb
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.dll
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\refint\PropertiesEncapsulation.dll
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.pdb
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\PropertiesEncapsulation.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PropertiesEncapsulation\PropertiesEncapsulation\obj\Debug\net9.0\ref\PropertiesEncapsulation.dll

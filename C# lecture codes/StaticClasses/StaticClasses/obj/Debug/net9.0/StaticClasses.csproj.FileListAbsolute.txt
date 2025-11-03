@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\bin\Debug\net9.0\StaticClasses.exe
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\bin\Debug\net9.0\StaticClasses.deps.json
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\bin\Debug\net9.0\StaticClasses.runtimeconfig.json
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\bin\Debug\net9.0\StaticClasses.dll
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\bin\Debug\net9.0\StaticClasses.pdb
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.AssemblyInfo.cs
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.dll
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\refint\StaticClasses.dll
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.pdb
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\StaticClasses.genruntimeconfig.cache
+C:\Users\DELL\Desktop\StaticClasses\StaticClasses\obj\Debug\net9.0\ref\StaticClasses.dll

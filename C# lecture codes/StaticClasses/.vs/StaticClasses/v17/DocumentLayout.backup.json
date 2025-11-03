@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\StaticClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|c:\\users\\dell\\desktop\\staticclasses\\staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|c:\\users\\dell\\desktop\\staticclasses\\staticclasses\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|c:\\users\\dell\\desktop\\staticclasses\\staticclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|c:\\users\\dell\\desktop\\staticclasses\\staticclasses\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A9D66-F606-4ECC-A072-948878E6C1E7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Dog.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Dog.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Dog.cs",
+              "RelativeToolTip": "StaticClasses\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:05:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Helper.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Helper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Helper.cs*",
+              "RelativeToolTip": "StaticClasses\\Helper.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:57:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Person.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Person.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Person.cs",
+              "RelativeToolTip": "StaticClasses\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:43:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\StaticClasses\\StaticClasses\\Program.cs*",
+              "RelativeToolTip": "StaticClasses\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:43:24.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

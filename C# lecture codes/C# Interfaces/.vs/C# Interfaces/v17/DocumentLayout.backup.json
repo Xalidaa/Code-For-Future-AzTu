@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\",
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\eaggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\eaggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\eaggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\dell\\desktop\\c# interfaces\\c# interfaces\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|c:\\users\\ca r221.14\\desktop\\code-for-future-aztu\\c# lecture codes\\c# interfaces\\c# interfaces\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C46991C-D0AB-4DB6-B716-567FBF7889E4}|C# Interfaces\\C# Interfaces.csproj|solutionrelative:c# interfaces\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +54,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Plane.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Plane.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Plane.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Plane.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Plane.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Plane.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T14:49:27.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T14:49:27.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IFlySwim.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\IFlySwim.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\IFlySwim.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Interfaces\\IFlySwim.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\IFlySwim.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\IFlySwim.cs",
               "RelativeToolTip": "C# Interfaces\\Interfaces\\IFlySwim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T14:41:23.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T14:41:23.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ISwim.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\ISwim.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\ISwim.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Interfaces\\ISwim.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\ISwim.cs",
               "RelativeToolTip": "C# Interfaces\\Interfaces\\ISwim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,48 +93,46 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IFly.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\IFly.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\IFly.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Interfaces\\IFly.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Interfaces\\IFly.cs",
               "RelativeToolTip": "C# Interfaces\\Interfaces\\IFly.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T13:03:16.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Penguin.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Penguin.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Penguin.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Penguin.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Penguin.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Penguin.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T12:48:53.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T12:48:53.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Duck.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Duck.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Duck.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Duck.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Duck.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Duck.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Duck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T12:20:37.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T12:20:37.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Eaggle.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Eaggle.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Eaggle.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Eaggle.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Eaggle.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Eaggle.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Eaggle.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,24 +141,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Bird.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Bird.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Bird.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Bird.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Bird.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Bird.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Bird.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T12:05:31.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Animal.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Models\\Animal.cs",
               "RelativeToolTip": "C# Interfaces\\Models\\Animal.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,13 +167,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "C# Interfaces\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\C# Interfaces\\C# Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# lecture codes\\C# Interfaces\\C# Interfaces\\Program.cs",
               "RelativeToolTip": "C# Interfaces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T12:01:10.336Z",
               "EditorCaption": ""

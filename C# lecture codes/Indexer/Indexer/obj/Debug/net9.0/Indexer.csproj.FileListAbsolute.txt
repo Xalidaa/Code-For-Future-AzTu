@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Indexer\Indexer\bin\Debug\net9.0\Indexer.exe
+C:\Users\DELL\Desktop\Indexer\Indexer\bin\Debug\net9.0\Indexer.deps.json
+C:\Users\DELL\Desktop\Indexer\Indexer\bin\Debug\net9.0\Indexer.runtimeconfig.json
+C:\Users\DELL\Desktop\Indexer\Indexer\bin\Debug\net9.0\Indexer.dll
+C:\Users\DELL\Desktop\Indexer\Indexer\bin\Debug\net9.0\Indexer.pdb
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.dll
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\refint\Indexer.dll
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.pdb
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\Indexer.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Indexer\Indexer\obj\Debug\net9.0\ref\Indexer.dll

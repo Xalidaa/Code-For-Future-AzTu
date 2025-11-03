@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|c:\\users\\dell\\desktop\\indexer\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|solutionrelative:indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|c:\\users\\dell\\desktop\\indexer\\indexer\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|solutionrelative:indexer\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|c:\\users\\dell\\desktop\\indexer\\indexer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79130AFC-8C9C-4B1D-9F79-F16ACBEF4420}|Indexer\\Indexer.csproj|solutionrelative:indexer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Student.cs",
+              "RelativeDocumentMoniker": "Indexer\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Student.cs",
+              "RelativeToolTip": "Indexer\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:44:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Group.cs",
+              "RelativeDocumentMoniker": "Indexer\\Group.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Group.cs",
+              "RelativeToolTip": "Indexer\\Group.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:44:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Indexer\\Indexer\\Program.cs",
+              "RelativeToolTip": "Indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:40:41.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
