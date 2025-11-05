@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\ListsTask\\ListsTask\\ListsTask.csproj",
+      "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# tasks\\ListsTask\\ListsTask\\ListsTask.csproj",
       "projectName": "ListsTask",
-      "projectPath": "C:\\Users\\ca r221.14\\Desktop\\ListsTask\\ListsTask\\ListsTask.csproj",
+      "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# tasks\\ListsTask\\ListsTask\\ListsTask.csproj",
       "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca r221.14\\Desktop\\ListsTask\\ListsTask\\obj\\",
+      "outputPath": "C:\\Users\\ca r221.14\\Desktop\\Code-For-Future-AzTu\\C# tasks\\ListsTask\\ListsTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

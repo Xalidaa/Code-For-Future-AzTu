@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.exe
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.deps.json
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.dll
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.pdb
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.dll
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\refint\DelegateTask.dll
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.pdb
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\DelegateTask\DelegateTask\obj\Debug\net8.0\ref\DelegateTask.dll
