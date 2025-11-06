@@ -1,0 +1,17 @@
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\SerializeTasks.exe
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\SerializeTasks.deps.json
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\SerializeTasks.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\SerializeTasks.dll
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\SerializeTasks.pdb
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\Serializ.5DE020B5.Up2Date
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.dll
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\refint\SerializeTasks.dll
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.pdb
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\SerializeTasks.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\SerializeTasks\SerializeTasks\obj\Debug\net8.0\ref\SerializeTasks.dll
