@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\bin\Debug\net8.0\RepetitionTask.exe
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\bin\Debug\net8.0\RepetitionTask.deps.json
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\bin\Debug\net8.0\RepetitionTask.runtimeconfig.json
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\bin\Debug\net8.0\RepetitionTask.dll
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\bin\Debug\net8.0\RepetitionTask.pdb
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.dll
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\refint\RepetitionTask.dll
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.pdb
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\RepetitionTask.genruntimeconfig.cache
+C:\Users\ca r221.14\Desktop\RepetitionTask\RepetitionTask\obj\Debug\net8.0\ref\RepetitionTask.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|c:\\users\\ca r221.14\\desktop\\repetitiontask\\repetitiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|solutionrelative:repetitiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|c:\\users\\ca r221.14\\desktop\\repetitiontask\\repetitiontask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|solutionrelative:repetitiontask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|c:\\users\\ca r221.14\\desktop\\repetitiontask\\repetitiontask\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|solutionrelative:repetitiontask\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|c:\\users\\ca r221.14\\desktop\\repetitiontask\\repetitiontask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|solutionrelative:repetitiontask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|c:\\users\\ca r221.14\\desktop\\repetitiontask\\repetitiontask\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C680C3-EF3B-4C93-884E-BF747DF75967}|RepetitionTask\\RepetitionTask.csproj|solutionrelative:repetitiontask\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "RepetitionTask\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Worker.cs",
+              "RelativeToolTip": "RepetitionTask\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:32:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "RepetitionTask\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Services\\CompanyService.cs",
+              "RelativeToolTip": "RepetitionTask\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:34:23.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "RepetitionTask\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Manager.cs",
+              "RelativeToolTip": "RepetitionTask\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:33:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RepetitionTask\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "RepetitionTask\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:31:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Program.cs",
+              "RelativeDocumentMoniker": "RepetitionTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\RepetitionTask\\RepetitionTask\\Program.cs",
+              "RelativeToolTip": "RepetitionTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:27:21.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
