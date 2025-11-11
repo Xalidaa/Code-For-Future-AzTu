@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\data\\movie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\data\\movie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\services\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\services\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|c:\\users\\dell\\desktop\\movieapp\\movieapp\\interfaces\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E901E6F-5FE4-49CF-ADB9-B7B876F826C2}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\interfaces\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "movie.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Data\\movie.json",
+              "RelativeDocumentMoniker": "MovieApp\\Data\\movie.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Data\\movie.json",
+              "RelativeToolTip": "MovieApp\\Data\\movie.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T16:43:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Services\\MovieManager.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Services\\MovieManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Services\\MovieManager.cs",
+              "RelativeToolTip": "MovieApp\\Services\\MovieManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:42:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Interfaces\\IPlayable.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Interfaces\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Interfaces\\IPlayable.cs",
+              "RelativeToolTip": "MovieApp\\Interfaces\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:42:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Genre.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:41:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Movie.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:41:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Media.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Media.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Models\\Media.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Media.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:41:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:39:52.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
