@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Apartment Search</h2>
+    <fieldset>
+        <legend>Occupant's Information</legend>
+        <label for="fname">Occupant's Name</label><br>
+        <input type = "text" id="fname" name="fname" placeholder="First name">
+        <input type ="text" id = "lname" name="lname" placeholder="Last name"><br><br>
+        <label for="number">Phone Number</label>
+        <input type="text" id="number" name="number" placeholder="Format: +994 ** *** ** **"><br><br>
+        <label for="email">Email Address</label>
+        <input type="text" id="email" name="email" placeholder="***@gmail.com">
+    </fieldset>
+    <br> <br>
+    <fieldset>
+        <legend>Apartment Information</legend>
+        <label for="apt">Choose apartment size:</label><br>
+        <select>
+            <option>Studio</option>
+            <option>1 bedroom</option>
+            <option>2 bedroom</option>
+            <option>3 bedroom</option>
+        </select>
+        <br> <br>
+        <label for="rent">Rental term:</label><br>
+        <label><input type="radio" name="term"> Short Term</label><br>
+        <label><input type="radio" name="term"> Long Term</label><br>
+        <label><input type="radio" name="term"> Both are OK</label>
+        <br><br>
+        <label for="feature">Features:</label><br>
+        <label><input type="checkbox" name="feature"> Balcony</label>
+        <label><input type="checkbox" name="feature"> Higher Floor</label>
+        <label><input type="checkbox" name="feature"> Proximity to Elevators</label>
+        <br> <br>
+        <label for="date">Start Date:</label><br>
+        <input type="date">
+        <br><br>
+        <label for="request">Special Request:</label><br>
+        <textarea placeholder="Please specify any special request you might have."></textarea>
+    </fieldset>
+    <br>
+    <p>Let us find you the apartment of your dreams...</p>
+    <button type="submit">Submit</button>
+    <button type="reset">Start over</button>
+</body>
+</html>
